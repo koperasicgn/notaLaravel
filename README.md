@@ -22,11 +22,11 @@ Projek ini bertujuan untuk berkongsi maklumat dan pengalaman berkaitan dengan ke
 ## Sumbangan kepada Nota Laravel
 
 Kami ingin mengucapkan ribuan terima kasih kepada penyumbang kepada Nota Laravel ini.
-Sekiranya anda berminat untuk menjadi penyumbang, sila lawati laman[Page Patreon](patreon.com/koperasicgn).
+Sekiranya anda berminat untuk menjadi penyumbang, sila lawati laman [Page Patreon](patreon.com/koperasicgn).
 
 ### Premium Partners
 
-- **[Vehikl](http://www.faceboo.com/plcgn)**
+- **[Adabi](http://www.faceboo.com/plcgn)**
 
 
 ## License
