@@ -7,6 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+![Pusat Latihan CGN](assets/images/cgnbulat.png)
 ## Nota Laravel 9
 
 Projek ini bertujuan untuk berkongsi maklumat dan pengalaman berkaitan dengan kerangka Laravel 9 sebagai rujukan sendiri dan juga sesiapa yang berminat untuk dengan kerangkan Laravel 9. Projek ini menggunakan bahasa Melayu bagi memberi alternatif kepada massyarakat Melayu untuk memahami dengan lebih cepat bagaimana aturcara dapat dibangunakan dengan mudah menggunakan kerangka aplikasi web Laravel 9

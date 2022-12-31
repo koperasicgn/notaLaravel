@@ -1,3 +1,4 @@
+![Pusat Latihan CGN](../../assets/images/cgnbulat.png)
 ## Laravel Responses
 
 Setiap ***HTTP request*** dari pengguna perlu dibalas kepada pengguna melaui webbrowser yang diguna. Laravel menyediakan beberapa cara berbeza untuk mengembalikan respons, yang paling ringkas dengan mengembalikan ***string*** daripada ***route*** atau ***controller***. Kerangka Laravel akan menukar ***string*** secara automatik menjadi respons HTTP penuh

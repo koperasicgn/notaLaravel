@@ -1,3 +1,4 @@
+![Pusat Latihan CGN](../assets/images/cgnbulat.png)
 ### Laravel Routing
 ***Routing*** adalah salah satu konsep penting dalam Laravel. Fungsi utama ***Routing*** adalah untuk mengarahkan semua permintaan aplikasi anda kepada ***Controllers*** yang sesuai.  
 

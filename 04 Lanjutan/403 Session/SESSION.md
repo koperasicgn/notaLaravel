@@ -1,3 +1,4 @@
+![Pusat Latihan CGN](../../assets/images/cgnbulat.png)
 ## Laravel Sessions
 
 Session ialah satu cara laravel menyimpan maklumat pengguna merentas pelbagai permintaan pengguna. Ia menjejaki semua pengguna yang melawat aplikasi.

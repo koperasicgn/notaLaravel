@@ -1,3 +1,4 @@
+![Pusat Latihan CGN](../assets/images/cgnbulat.png)
 # Laravel Views
 
 Views mengandungi kod html yang diperlukan oleh aplikasi anda, dan ia merupakan kaedah dalam Laravel yang memisahkan logik pengawal dan logik domain daripada logik pembentangan. Views diletakkan dalam folder laravel\resource. Nama fail Views berakhir dengan .blade.php dan menunjukan pemproses blade template.

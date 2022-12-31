@@ -1,3 +1,4 @@
+![Pusat Latihan CGN](../assets/images/cgnbulat.png)
 # Laravel Controllers
 
 ## Controller

@@ -1,3 +1,4 @@
+![Pusat Latihan CGN](../../assets/images/cgnbulat.png)
 ## Laravel Request
 Laravel menyediakan objek kelas Illuminate\Http\Request untuk berinteraksi dengan permintaan HTTP untuk mendapatkan semula input, ***cookeis*** dan fail yang diserahkan bersama permintaan itu.
 
